@@ -14,9 +14,9 @@
 const andre = {
   code: [Javascript, HTML, CSS, PHP, Python, Java],
   tools: [Node, Firebase, OpenCV],
-  learning: [Spartacus, Hybris, ArcGIS, Framework7],
+  learning: [Spartacus, Hybris, Angular],
   interests: ['new-technologies', 'automation', 'self-hosted'],
-  challenge: "Learn Flutter and Next.js this year"
+  challenge: "Learn Angular"
 }
 ```
 
