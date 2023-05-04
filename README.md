@@ -38,7 +38,7 @@
 
 <img width='600' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreescocard&theme=github_dark" />
 
-<img width='400' src="https://github-profile-trophy.vercel.app/?username=andreescocard&theme=dark" />
+<img width='600' src="https://github-profile-trophy.vercel.app/?username=andreescocard&theme=dark" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreescocard&show_icons=true&locale=en&theme=dark" alt="andreescocard" /></p>
 
