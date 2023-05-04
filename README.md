@@ -36,11 +36,11 @@
 
 ### Status
 
-<img width='500' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreescocard&theme=github_dark" />
+<img width='600' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreescocard&theme=github_dark" />
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreescocard&show_icons=true&locale=en" alt="andreescocard" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreescocard&show_icons=true&locale=en&theme=dark" alt="andreescocard" /></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreescocard&show_icons=true&locale=en&theme=dark" alt="andreescocard"/>
 
