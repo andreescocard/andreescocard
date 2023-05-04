@@ -3,7 +3,8 @@
 <p><em>Commerce Developer at <a href="http://www.nttdata.com">NTT Data</a></br>CEO at <a href="https://www.hesea.com.br">Hesea</a>
 </em></p>
 
-[![Twitter: andreescocard](https://img.shields.io/twitter/follow/andreescocard?style=social)](https://twitter.com/andrescocard)
+### How to reach me  
+
 [![Linkedin: andreescocard](https://img.shields.io/badge/-andreescocard-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andré-escocard-1a76945a/)](https://www.linkedin.com/in/andreescocard/)
 [![GitHub andreescocard](https://img.shields.io/github/followers/andreescocard?label=follow&style=social)](https://github.com/andreescocard)
 
