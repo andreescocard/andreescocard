@@ -9,17 +9,9 @@
 [![GitHub andreescocard](https://img.shields.io/github/followers/andreescocard?label=follow&style=social)](https://github.com/andreescocard)
 
 
-### A little more about me...  
+### What i use/used work/worked with
 
-```javascript
-const andre = {
-  code: [Javascript, HTML, CSS, PHP, Python, Java],
-  tools: [Node, Firebase, OpenCV],
-  learning: [Spartacus, Hybris, Angular],
-  interests: ['new-technologies', 'automation', 'self-hosted'],
-  challenge: "Learn Angular"
-}
-```
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)}" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreescocard&show_icons=true&locale=en" alt="andreescocard" /></p>
 
