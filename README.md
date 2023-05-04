@@ -36,7 +36,7 @@
 
 ### Status
 
-<img width='500' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreescocard&theme=react-dark" />
+<img width='500' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreescocard&theme=github_dark" />
 
 
 
