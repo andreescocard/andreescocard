@@ -10,7 +10,7 @@
 
 
 <details>
-  <summaryWhat i use/used/work/worked with</summary>
+  <summary>What i use/used/work/worked with</summary>
 
 
 <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /><img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" /><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
