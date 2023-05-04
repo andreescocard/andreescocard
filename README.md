@@ -11,6 +11,7 @@
 
 ### What i use/used work/worked with
 
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" /><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />         
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreescocard&show_icons=true&locale=en" alt="andreescocard" /></p>
