@@ -36,6 +36,8 @@
 
 ### Status
 
+<img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandresanlim&theme=vue" />
+
 <img width='200' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexandresanlim%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreescocard&show_icons=true&locale=en" alt="andreescocard" /></p>
