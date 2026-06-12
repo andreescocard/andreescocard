@@ -8,7 +8,7 @@
 <p>
   <em>
     AI & Commerce Software Engineer — <b>Automation, Agents & Full-Stack Delivery</b><br/>
-    Commerce Developer at <a href="https://www.nttdata.com">NTT DATA</a> · CEO at <a href="https://www.hesea.com.br">Hesea</a>
+    Commerce Developer at <a href="https://smithcommerce.com">Smith</a> · CEO at <a href="https://www.hesea.com.br">Hesea</a>
   </em>
 </p>
 
